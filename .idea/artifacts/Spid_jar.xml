@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Spid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spid_jar</output-path>
+    <root id="archive" name="Spid.jar">
+      <element id="module-output" name="Spid" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../toxiclibs/library/toxiclibs.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../processing-3.5.4/core/library/core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
